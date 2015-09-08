@@ -1,0 +1,11 @@
+{
+  "name": "docker-redis-test",
+  "version": "0.0.1",
+  "description": "",
+  "author": "David Richards",
+  "dependencies": {
+    "express": "latest",
+    "http": "latest",
+    "redis": "latest"
+  }
+}

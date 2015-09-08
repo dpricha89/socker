@@ -1,0 +1,25 @@
+{
+  "name": "socker",
+  "version": "1.0.0",
+  "description": "application for making docker connection for a saas cloud setup",
+  "main": "server.js",
+  "dependencies": {
+    "bluebird": "2.9.34",
+    "dockerode": "2.2.2",
+    "underscore": "1.8.3",
+    "body-parser": "1.13.3",
+    "dockerode-bluebird": "1.0.2",
+    "express": "4.13.3",
+    "http-proxy": "1.11.2",
+    "mongodb": "2.0.42",
+    "nconf": "0.7.2",
+    "pmongo": "1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,10 @@
+from node
+
+
+WORKDIR /src
+COPY . /src
+
+
+RUN cd /src; npm install
+
+CMD ["node", "/src/app.js"]

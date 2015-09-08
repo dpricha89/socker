@@ -1,0 +1,12 @@
+{
+   "default.max.orgs": 5,
+   "default.container.shell": {
+      "name": "",
+      "Image": "",
+      "ExposedPorts": {},
+      "HostConfig": {
+         "Links": "",
+         "PortBindings": {}
+      }
+   }
+}
