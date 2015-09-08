@@ -2,7 +2,7 @@
 
 ###Docker + SAAS + HTTP-Proxy
 
-This is a very simple implementation of docker SAAS to lower infrastructure cost while segregating each customers data. Each organization gets their own front end container (Node JS) and database container (Redis) that is linked together with docker. 
+This is a very simple implementation of docker SAAS to lower infrastructure cost while segregating each customers data. Each organization gets their own front end container (Node JS) and database container (Redis) that are linked together with docker. 
 
 ####Coming Soon
 + organization migration (move containers between hosts)
